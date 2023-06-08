@@ -1,0 +1,22 @@
+#b{
+    background-color: yellow;
+    border: none;
+    font-size: 15px;
+    width: ;
+    }
+    #navbar{
+    display: flex;
+    justify-content: space-between;
+        width: 100%;
+    }
+    #navbar #top{
+        width: 50%;
+    }
+    #navbar img{
+        width: 20%;
+    }
+    #navbar #button{
+        display: flex;
+        justify-content: ;
+    
+    }
